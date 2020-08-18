@@ -19,13 +19,10 @@ I'm a developer focused on Web and Mobile applications. Sometimes I try to do so
 
 And learning more every day ...
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Writing in <a target="_blank" href="https://medium.com/@nathanfeitoza">Medium</a> 📹 ✍🏾
 - Discover, learning and sharing my work on <a target="_blank" href="https://br.linkedin.com/in/nathan-feitoza-716a4592">LinkedIn</a> 💼
 - Sharing my life on <a target="_blank" href="https://www.instagram.com/nathanfeitoza/">Instagram</a> 👦
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nathanfeitoza&show_icons=true&theme=tokyonight"></a>
-<br/>
-
-Inspired in <a target="_blank" href="https://github.com/M0nica">Monica Powell</a>

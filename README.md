@@ -25,7 +25,7 @@ And learning more every day ...
 - Sharing my life on <a target="_blank" href="https://www.instagram.com/nathanfeitoza/">Instagram</a> 👦
 
 
-![Nathan github stats](https://github-readme-stats.vercel.app/api?username=nathanfeitoza&show_icons=true&theme=tokyonight)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nathanfeitoza&show_icons=true&theme=tokyonight"></a>
 
 ####
 Inspired in <a target="_blank" href="https://github.com/M0nica">Monica Powell</a>

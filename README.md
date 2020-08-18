@@ -1,5 +1,6 @@
 ### Hi, i'm Nathan 👋
 
+<img src="https://raw.githubusercontent.com/nathanfeitoza/nathanfeitoza/master/media/my-image.jpg" alt="banner that says Nathan Feitoza - Developer">
 This is the place where I keep my work and have fun too (I have a lot more fun).
 
 I'm a developer focused on Web and Mobile applications. Sometimes I try to do something for the desktop with Electron. I am passionate about technology and all its evolution, and within the technologies that I like in the programming area, and that I have experience, are:

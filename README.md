@@ -16,6 +16,7 @@ I'm a developer focused on Web and Mobile applications. Sometimes I try to do so
 * Python
 * Pandas and Tensorflow
 * AWS
+* Docker
 
 And learning more every day ...
 

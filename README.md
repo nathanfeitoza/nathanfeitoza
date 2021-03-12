@@ -29,4 +29,5 @@ And learning more every day ...
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nathanfeitoza&show_icons=true&theme=tokyonight"></a>  
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanfeitoza&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA">

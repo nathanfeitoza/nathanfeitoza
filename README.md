@@ -28,5 +28,5 @@ And learning more every day ...
 ##### Readme insipired in <a target="_blank" href="https://github.com/M0nica">Monica Powell</a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nathanfeitoza&show_icons=true&theme=tokyonight"></a>
-
-<img align="left" style="margin-top: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanfeitoza&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA">
+###
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanfeitoza&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA">
